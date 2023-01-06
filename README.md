@@ -80,4 +80,3 @@ Finally, the template components can be periodically updated by running the foll
 ```bash
 ./update-template.sh
 ```
-Spring Application
